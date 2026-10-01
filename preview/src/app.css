@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@source "../../frontend/resources/js";
+@source "./";
+
+@theme {
+    --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+}
+
+body { background: #fff; }
